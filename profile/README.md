@@ -10,7 +10,7 @@ Some resources to get you started:
 
 - [Overall InfraSonar documentation](https://docs.infrasonar.com)
 - [InfraSonar API documentation](https://docs.infrasonar.com/api/overview/)
-- [Code of conduct](../CODE_OF_CONDUCT.md)
+- [Code of conduct](https://github.com/infrasonar/.github/blob/main/CODE_OF_CONDUCT.md)
 
 ## Want to build your own collectors?
 
